@@ -1,4 +1,4 @@
-module github.com/pokt-network/tm-db
+module github.com/oten91/tm-db
 
 go 1.12
 
